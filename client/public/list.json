@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Item One",
+    "title": "First Demo Item",
+    "description": "This is the description for the first demo item.",
+    "price": 0,
+    "category": "song",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 2,
+    "name": "Item Two",
+    "title": "Second Demo Item",
+    "description": "This is the description for the second demo item.",
+    "price": 0,
+    "category": "sports",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 3,
+    "name": "Item Three",
+    "title": "Third Demo Item",
+    "description": "This is the description for the third demo item.",
+    "price": 0,
+    "category": "movie",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 4,
+    "name": "Item Four",
+    "title": "Fourth Demo Item",
+    "description": "This is the description for the fourth demo item.",
+    "price": 0,
+    "category": "tech",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 5,
+    "name": "Item Five",
+    "title": "Fifth Demo Item",
+    "description": "This is the description for the fifth demo item.",
+    "price": 0,
+    "category": "free",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 6,
+    "name": "Item Six",
+    "title": "Sixth Demo Item",
+    "description": "This is the description for the sixth demo item.",
+    "price": 0,
+    "category": "gaming",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 7,
+    "name": "Item Seven",
+    "title": "Seventh Demo Item",
+    "description": "This is the description for the seventh demo item.",
+    "price": 0,
+    "category": "free",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 8,
+    "name": "Item Eight",
+    "title": "Eighth Demo Item",
+    "description": "This is the description for the eighth demo item.",
+    "price": 0,
+    "category": "song",
+    "image": "https://via.placeholder.com/150"
+  }
+]
