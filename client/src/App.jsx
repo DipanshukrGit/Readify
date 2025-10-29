@@ -3,6 +3,8 @@ import Home from './Home/Home'
 import { Route, Routes } from 'react-router-dom'
 
 import Courses from './Courses/Courses'
+import Contacts from './Contact/Contacts'
+import Abouts from './About/Abouts'
 
 
 const App = () => {
@@ -11,6 +13,8 @@ const App = () => {
     <Routes>
       <Route path="/" element={<Home />} />
       <Route path="/course" element={<Courses/>} />
+       <Route path="/contact" element={<Contacts/>} />
+        <Route path="/about" element={<Abouts/>} />
     </Routes>
     
     </>
