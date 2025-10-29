@@ -6,7 +6,7 @@
     "description": "This is the description for the first demo item.",
     "price": 0,
     "category": "song",
-    "image": "https://via.placeholder.com/150"
+    "image": "https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_24307396.htm#fromView=search&page=1&position=8&uuid=158be993-7dda-4cd4-8ce8-e62bc2ec5b9f&query=book"
   },
   {
     "id": 2,
@@ -15,7 +15,7 @@
     "description": "This is the description for the second demo item.",
     "price": 0,
     "category": "sports",
-    "image": "https://via.placeholder.com/150"
+    "image": "https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_24307396.htm#fromView=search&page=1&position=8&uuid=158be993-7dda-4cd4-8ce8-e62bc2ec5b9f&query=book"
   },
   {
     "id": 3,
@@ -24,7 +24,7 @@
     "description": "This is the description for the third demo item.",
     "price": 0,
     "category": "movie",
-    "image": "https://via.placeholder.com/150"
+    "image": "https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_24307396.htm#fromView=search&page=1&position=8&uuid=158be993-7dda-4cd4-8ce8-e62bc2ec5b9f&query=book"
   },
   {
     "id": 4,
@@ -33,16 +33,16 @@
     "description": "This is the description for the fourth demo item.",
     "price": 0,
     "category": "tech",
-    "image": "https://via.placeholder.com/150"
+    "image": "https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_24307396.htm#fromView=search&page=1&position=8&uuid=158be993-7dda-4cd4-8ce8-e62bc2ec5b9f&query=book"
   },
   {
     "id": 5,
     "name": "Item Five",
     "title": "Fifth Demo Item",
-    "description": "This is the description for the fifth demo item.",
+    "description": "This is the description for the fifth demo................. item.",
     "price": 0,
     "category": "free",
-    "image": "https://via.placeholder.com/150"
+    "image": "https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_24307396.htm#fromView=search&page=1&position=8&uuid=158be993-7dda-4cd4-8ce8-e62bc2ec5b9f&query=book"
   },
   {
     "id": 6,
@@ -51,7 +51,7 @@
     "description": "This is the description for the sixth demo item.",
     "price": 0,
     "category": "gaming",
-    "image": "https://via.placeholder.com/150"
+    "image": "https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_24307396.htm#fromView=search&page=1&position=8&uuid=158be993-7dda-4cd4-8ce8-e62bc2ec5b9f&query=book"
   },
   {
     "id": 7,
@@ -60,7 +60,7 @@
     "description": "This is the description for the seventh demo item.",
     "price": 0,
     "category": "free",
-    "image": "https://via.placeholder.com/150"
+    "image": "https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_24307396.htm#fromView=search&page=1&position=8&uuid=158be993-7dda-4cd4-8ce8-e62bc2ec5b9f&query=book"
   },
   {
     "id": 8,
@@ -69,6 +69,6 @@
     "description": "This is the description for the eighth demo item.",
     "price": 0,
     "category": "song",
-    "image": "https://via.placeholder.com/150"
+    "image": "https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_24307396.htm#fromView=search&page=1&position=8&uuid=158be993-7dda-4cd4-8ce8-e62bc2ec5b9f&query=book"
   }
 ]

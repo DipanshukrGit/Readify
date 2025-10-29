@@ -1,21 +1,23 @@
 import React from "react";
+import Login from "./Login";
 
 const Navbar = () => {
   const navItems = (
-    <>
-      <li>
-        <button>Home</button>
-      </li>
-      <li>
-        <button>Course</button>
-      </li>
-      <li>
-        <button>Contact</button>
-      </li>
-      <li>
-        <button>About</button>
-      </li>
-    </>
+  <>
+  <li>
+    <a href="/">Home</a>
+  </li>
+  <li>
+    <a href="/course">Course</a>
+  </li>
+  <li>
+    <a href="/contact">Contact</a>
+  </li>
+  <li>
+    <a href="/about">About</a>
+  </li>
+</>
+
   );
 
   return (
@@ -105,9 +107,10 @@ const Navbar = () => {
 
           {/* Login Button */}
           <div>
-            <a className="bg-black text-white px-3 py-2 rounded-md hover:bg-slate-800 duration-300 cursor-pointer">
+            <a onClick={()=>document.getElementById("my_modal_3").showModal()} className="bg-black text-white px-3 py-2 rounded-md hover:bg-slate-800 duration-300 cursor-pointer">
               Login
             </a>
+            <Login/>
           </div>
         </div>
       </div>
