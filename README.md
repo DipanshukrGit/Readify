@@ -18,7 +18,7 @@
 - 📱 Mobile-first responsive layout  
 - ⚡ Built with Next.js for performance
 
----
+----
 
 ## 🛠️ Tech Stack
 - **Framework:** React  
